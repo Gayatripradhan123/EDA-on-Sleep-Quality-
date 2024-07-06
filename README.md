@@ -8,8 +8,8 @@ Cardiovascular Health: Examine blood pressure and heart rate measurements.
 Sleep Disorder Analysis: Identify the occurrence of sleep disorders such as Insomnia and Sleep Apnea.
 
 # Dataset Columns:
-Person ID: An identifier for each individual.
-Gender: The gender of the person (Male/Female).
+Person ID: An identifier for each individual.\\
+Gender: The gender of the person (Male/Female).\\
 Age: The age of the person in years.
 Occupation: The occupation or profession of the person.
 Sleep Duration (hours): The number of hours the person sleeps per day.
