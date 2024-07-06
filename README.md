@@ -37,5 +37,7 @@ Sleep Disorder: The presence or absence of a sleep disorder in the person (None,
 # Details about Sleep Disorder Column:
 
 None: The individual does not exhibit any specific sleep disorder.
+
 Insomnia: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.
+
 Sleep Apnea: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.
